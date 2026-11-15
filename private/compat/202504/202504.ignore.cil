@@ -5,6 +5,8 @@
 (typeattribute new_objects)
 (typeattributeset new_objects
   ( new_objects
+    gamebar_app
+    parts_app
     aisealhostservice
     aiseal_data_file
     binderfs_logs_state_hashed

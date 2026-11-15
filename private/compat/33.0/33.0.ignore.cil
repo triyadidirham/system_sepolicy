@@ -5,6 +5,8 @@
 (typeattribute new_objects)
 (typeattributeset new_objects
   ( new_objects
+    gamebar_app
+    parts_app
     adaptive_haptics_prop
     apex_ready_prop
     art_boot
