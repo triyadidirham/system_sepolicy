@@ -5,6 +5,8 @@
 (typeattribute new_objects)
 (typeattributeset new_objects
   ( new_objects
+    gamebar_app
+    parts_app
     archive_service
     artd_pre_reboot_service
     contextual_search_service

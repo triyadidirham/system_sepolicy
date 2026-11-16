@@ -5,6 +5,8 @@
 (typeattribute new_objects)
 (typeattributeset new_objects
   ( new_objects
+    gamebar_app
+    parts_app
     app_function_service
     binderfs_logs_transaction_history
     binderfs_logs_transactions
